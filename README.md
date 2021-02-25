@@ -1,6 +1,6 @@
 # 👋, world
 
-I'm currently working in the [Architecture and Platforms](https://mojdigital.blog.gov.uk/) team at [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice).
+I'm currently working in the [Platforms and Architecture](https://mojdigital.blog.gov.uk/) team at [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice).
 
 I was previously working at [Ministry of Housing, Communities & Local Government](https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government) and [UK Parliament](https://parliament.uk).
 
