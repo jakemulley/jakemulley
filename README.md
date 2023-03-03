@@ -6,6 +6,6 @@ I was previously working at [Ministry of Housing, Communities & Local Government
 
 Some of my work is open source here on [GitHub](https://github.com/jakemulley), and you can also find me on [Twitter](https://twitter.com/carboia), [LinkedIn](https://linkedin.com/in/jakemulley), and <a rel="me" href="https://mastodon.social/@jsm">Mastodon</a>.
 
-😄 My pronouns are: `he`/`him`
+😄 My pronouns are: `they`/`them`
 
 ⚡️ Fun fact: I've run/walked/completed 4 marathons
