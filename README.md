@@ -1,11 +1,15 @@
 # 👋, world
 
-I'm currently working in the [Platforms and Architecture](https://mojdigital.blog.gov.uk/) team at [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice).
+I'm currently Global Head of Cloud at [PhysicsX](https://physicsx.ai/), an AI for engineering company.
 
-I was previously working at [Ministry of Housing, Communities & Local Government](https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government) and [UK Parliament](https://parliament.uk).
+Previously, I spent nearly a decade working in the [UK government](https://gov.uk/), across [Ministry of Justice](https://www.gov.uk/government/organisations/ministry-of-justice), [Ministry of Housing, Communities & Local Government](https://www.gov.uk/government/organisations/ministry-of-housing-communities-and-local-government) and [UK Parliament](https://parliament.uk).
 
-Some of my work is open source here on [GitHub](https://github.com/jakemulley), and you can also find me on [Twitter](https://twitter.com/carboia), [LinkedIn](https://linkedin.com/in/jakemulley), and <a rel="me" href="https://mastodon.social/@jsm">Mastodon</a>.
+I have a [personal GitHub](https://github.com/jakemulley) and a [work GitHub](https://github.com/jakemulley-px).
+
+You can also find me on [LinkedIn](https://linkedin.com/in/jakemulley) or <a rel="me" href="https://mastodon.social/@jsm">Mastodon</a>.
+
+---
 
 😄 My pronouns are: `they`/`them`
 
-⚡️ Fun fact: I've run/walked/completed 4 marathons
+⚡️ Fun fact: I've run/walked/completed 5 marathons
